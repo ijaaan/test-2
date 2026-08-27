@@ -115,5 +115,7 @@ Got feedback or want to connect with other builders?
 Join the **Builder’s Console Log** community on Skool:  
 [![Join Builder’s Console Log](https://img.shields.io/badge/Join-Builders%20Console%20Log-blue)](https://www.skool.com/ai-for-your-business/about)
 
+Just trying to do a PR to Github
+
 ---
 
